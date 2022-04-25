@@ -27,6 +27,3 @@
 <p align="center">
   <a href="https://www.open.mp">open.mp</a>
 </p>
-
-A multiplayer mod for Grand Theft Auto: San Andreas that is fully backwards compatible with San Andreas Multiplayer.
-
