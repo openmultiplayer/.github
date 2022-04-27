@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a
-    href="https://open.mp/docs"
-  >Wiki</a>
-  |
-  <a
-    href="https://discord.gg/samp"
-  >Discord</a>
+  <a href="https://open.mp/docs">
+    <img src="https://img.shields.io/badge/Docs-9083D2?logoColor=9083D2" />
+  </a>
+  <a href="https://github.com/openmultiplayer/server-beta/releases">
+    <img src="https://img.shields.io/static/v1?label=&message=Download Beta&color=2BB4AB" />
+  </a>
+  <br />
 </p>
 
 <p align="center">
@@ -25,5 +25,23 @@
 </p>
 
 <p align="center">
-  <a href="https://www.open.mp">open.mp</a>
+  <a href="https://twitter.com/openmultiplayer">
+    <img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/openmultiplayer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/openmultiplayer">
+    <img src="https://img.shields.io/badge/Facebook-1298f6?logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/openmultiplayer">
+    <img src="https://img.shields.io/badge/Youtube-f00?logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.twitch.tv/openmultiplayer">
+    <img src="https://img.shields.io/badge/Twitch-a970ff?logo=twitch&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.mp"><strong>open.mp »</strong></a>
 </p>
