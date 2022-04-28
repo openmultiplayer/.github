@@ -25,6 +25,9 @@
 </p>
 
 <p align="center">
+  <a href="https://discord.gg/samp">
+    <img src="https://img.shields.io/discord/231799104731217931?label=Discord&color=5865F2" />
+  </a>
   <a href="https://twitter.com/openmultiplayer">
     <img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white" />
   </a>
