@@ -1,6 +1,6 @@
 <p align="center">
   <a aria-label="open.mp logo" href="https://open.mp">
-    <img src="https://assets.open.mp/assets/images/assets/wordmark-light-mono.png" width="420" />
+    <img src="https://imgur.com/tGjhoGX.png" width="420" />
   </a>
 </p>
 
