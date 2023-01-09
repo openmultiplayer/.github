@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Docs-9083D2?logoColor=9083D2" />
   </a>
   <a href="https://github.com/openmultiplayer/server-beta/releases">
-    <img src="https://img.shields.io/static/v1?label=&message=Download Beta&color=2BB4AB" />
+    <img src="https://img.shields.io/static/v1?label=&message=Download&color=2BB4AB" />
   </a>
   <br />
 </p>
