@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  An upcoming multiplayer mod for Grand Theft Auto: San Andreas that will be
+  A multiplayer mod for Grand Theft Auto: San Andreas that will be
   fully backwards compatible with the existing multiplayer mod San Andreas
   Multiplayer.
 </p>
