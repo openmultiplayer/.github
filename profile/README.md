@@ -12,16 +12,14 @@
   <a href="https://open.mp/docs">
     <img src="https://img.shields.io/badge/Docs-9083D2?logoColor=9083D2" />
   </a>
-  <a href="https://github.com/openmultiplayer/server-beta/releases">
-    <img src="https://img.shields.io/static/v1?label=&message=Download Beta&color=2BB4AB" />
+  <a href="https://github.com/openmultiplayer/open.mp/releases">
+    <img src="https://img.shields.io/static/v1?label=&message=Download&color=2BB4AB" />
   </a>
   <br />
 </p>
 
 <p align="center">
-  A multiplayer mod for Grand Theft Auto: San Andreas that will be
-  fully backwards compatible with the existing multiplayer mod San Andreas
-  Multiplayer.
+  A multiplayer mod for Grand Theft Auto: San Andreas that is fully backwards compatible with San Andreas Multiplayer.
 </p>
 
 <p align="center">
